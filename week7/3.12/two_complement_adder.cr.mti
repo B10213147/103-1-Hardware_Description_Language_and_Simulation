@@ -1,0 +1,15 @@
+{D:/course/103-1/Verilog HDL/week7/3.12/tb.v} {1 {vlog -work work {D:/course/103-1/Verilog HDL/week7/3.12/tb.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {D:/course/103-1/Verilog HDL/week7/3.12/two's complement adder.v} {1 {vlog -work work {D:/course/103-1/Verilog HDL/week7/3.12/two's complement adder.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+-- Compiling module two_complement_adder
+
+Top level modules:
+	two_complement_adder
+
+} {} {}}
