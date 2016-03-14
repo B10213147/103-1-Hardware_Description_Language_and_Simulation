@@ -1,0 +1,18 @@
+# Current time Fri Nov 21 16:18:42 2014
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.1"
+# Version = "2005.06"
+# Date = "Jun  6 2005"
+# Platform = win32
+
+Exception c0000005 has occurred at address 6604b0a7. Traceback:
+# 0    0x6604b0a7: 'Tcl_GetStringFromObj + 0x7'
+# 1    0x6611123b: 'TkGetMenuIndex + 0x9cd'
+# 2    0x6605ddc6: 'Tcl_UpvarObjCmd + 0x266'
+# 3    0x6605c1cb: 'Tcl_UnsetVar2 + 0x15b'
+# 4    0x6605c099: 'Tcl_UnsetVar2 + 0x29'
+# 5    0x661bbaeb: 'Itcl_GetInstanceVar + 0x41b'
+StackWalk failed 487
+# End of Stack Trace
+
