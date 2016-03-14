@@ -1,0 +1,27 @@
+{D:/course/103-1/Verilog HDL/week3/exceed3 to BCD.v} {1 {vlog -work work {D:/course/103-1/Verilog HDL/week3/exceed3 to BCD.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+-- Compiling module exceed3_to_BCD
+
+Top level modules:
+	exceed3_to_BCD
+
+} {} {}} {D:/Verilog HDL/week3/tb.v} {0 {vlog -work work {D:/Verilog HDL/week3/tb.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+** Fatal: Unexpected signal: 11.
+** Error: D:/Verilog HDL/week3/tb.v(2): Verilog Compiler exiting
+
+} {4.0 5.0} {}} {D:/course/103-1/Verilog HDL/week3/tb.v} {1 {vlog -work work {D:/course/103-1/Verilog HDL/week3/tb.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+-- Compiling module simulation
+
+Top level modules:
+	simulation
+
+} {} {}} {D:/Verilog HDL/week3/exceed3 to BCD.v} {1 {vlog -work work {D:/Verilog HDL/week3/exceed3 to BCD.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+-- Compiling module exceed3_to_BCD
+
+Top level modules:
+	exceed3_to_BCD
+
+} {} {}}
