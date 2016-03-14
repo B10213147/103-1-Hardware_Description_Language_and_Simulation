@@ -1,0 +1,15 @@
+{D:/course/103-1/Verilog HDL/week7/3.7/tb.v} {1 {vlog -work work {D:/course/103-1/Verilog HDL/week7/3.7/tb.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {D:/course/103-1/Verilog HDL/week7/3.7/modulus operator.v} {1 {vlog -work work {D:/course/103-1/Verilog HDL/week7/3.7/modulus operator.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+-- Compiling module modulus_operator
+
+Top level modules:
+	modulus_operator
+
+} {} {}}

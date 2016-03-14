@@ -1,0 +1,663 @@
+# Reading C:/Modeltech_6.1/tcl/vsim/pref.tcl 
+# //  ModelSim SE 6.1 Jun  6 2005 
+# //
+# //  Copyright Mentor Graphics Corporation 2005
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+#  OpenFile "D:/course/103-1/Verilog HDL/week10/4.7/majority_circuit.mpf" 
+# Loading project majority_circuit
+# Compile of majority_circuit.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.tb
+# vsim work.tb 
+# Loading work.tb
+# Loading work.majority_circuit
+# ** Warning: (vsim-3009) [TSCALE] - Module 'majority_circuit' does not have a `timescale directive in effect, but previous modules do.
+#         Region: /tb/UUT
+add wave -r /*
+run -all
+# 0ns in=001 flag=1
+# 10ns in=010 flag=1
+# 20ns in=011 flag=1
+# 30ns in=100 flag=1
+# 40ns in=101 flag=1
+# 50ns in=110 flag=1
+# 60ns in=111 flag=1
+# 70ns in=000 flag=1
+# 80ns in=001 flag=1
+# 90ns in=010 flag=1
+# 100ns in=011 flag=1
+# 110ns in=100 flag=1
+# 120ns in=101 flag=1
+# 130ns in=110 flag=1
+# 140ns in=111 flag=1
+# 150ns in=000 flag=1
+# ** Note: $finish    : D:/course/103-1/Verilog HDL/week10/4.7/tb.v(14)
+#    Time: 160 ns  Iteration: 0  Instance: /tb
+# 1
+# Break at D:/course/103-1/Verilog HDL/week10/4.7/tb.v line 14
+# Compile of tb.v was successful.
+# Compile of majority_circuit.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.tb
+# vsim work.tb 
+# Loading work.tb
+# Loading work.majority_circuit
+# ** Warning: (vsim-3009) [TSCALE] - Module 'majority_circuit' does not have a `timescale directive in effect, but previous modules do.
+#         Region: /tb/UUT
+add wave -r /*
+run -all
+# 0ns in=001 flag=1
+# 10ns in=010 flag=1
+# 20ns in=011 flag=1
+# 30ns in=100 flag=1
+# 40ns in=101 flag=1
+# 50ns in=110 flag=1
+# 60ns in=111 flag=1
+# 70ns in=000 flag=0
+# 80ns in=001 flag=1
+# 90ns in=010 flag=1
+# 100ns in=011 flag=1
+# 110ns in=100 flag=1
+# 120ns in=101 flag=1
+# 130ns in=110 flag=1
+# 140ns in=111 flag=1
+# 150ns in=000 flag=0
+# ** Note: $finish    : D:/course/103-1/Verilog HDL/week10/4.7/tb.v(14)
+#    Time: 160 ns  Iteration: 0  Instance: /tb
+# 1
+# Break at D:/course/103-1/Verilog HDL/week10/4.7/tb.v line 14
+# Compile of majority_circuit.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.tb
+# vsim work.tb 
+# Loading work.tb
+# Loading work.majority_circuit
+# ** Warning: (vsim-3009) [TSCALE] - Module 'majority_circuit' does not have a `timescale directive in effect, but previous modules do.
+#         Region: /tb/UUT
+add wave -r /*
+run -all
+# 0ns in=001 flag=1
+# 10ns in=010 flag=1
+# 20ns in=011 flag=1
+# 30ns in=100 flag=1
+# 40ns in=101 flag=1
+# 50ns in=110 flag=1
+# 60ns in=111 flag=1
+# 70ns in=000 flag=0
+# 80ns in=001 flag=1
+# 90ns in=010 flag=1
+# 100ns in=011 flag=1
+# 110ns in=100 flag=1
+# 120ns in=101 flag=1
+# 130ns in=110 flag=1
+# 140ns in=111 flag=1
+# 150ns in=000 flag=0
+# ** Note: $finish    : D:/course/103-1/Verilog HDL/week10/4.7/tb.v(14)
+#    Time: 160 ns  Iteration: 0  Instance: /tb
+# 1
+# Break at D:/course/103-1/Verilog HDL/week10/4.7/tb.v line 14
+# Compile of majority_circuit.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.tb
+# vsim work.tb 
+# Loading work.tb
+# Loading work.majority_circuit
+# ** Warning: (vsim-3009) [TSCALE] - Module 'majority_circuit' does not have a `timescale directive in effect, but previous modules do.
+#         Region: /tb/UUT
+add wave -r /*
+run -all
+# 0ns in=001 flag=0
+# 10ns in=010 flag=0
+# 20ns in=011 flag=1
+# 30ns in=100 flag=0
+# 40ns in=101 flag=1
+# 50ns in=110 flag=1
+# 60ns in=111 flag=1
+# 70ns in=000 flag=0
+# 80ns in=001 flag=0
+# 90ns in=010 flag=0
+# 100ns in=011 flag=1
+# 110ns in=100 flag=0
+# 120ns in=101 flag=1
+# 130ns in=110 flag=1
+# 140ns in=111 flag=1
+# 150ns in=000 flag=0
+# ** Note: $finish    : D:/course/103-1/Verilog HDL/week10/4.7/tb.v(14)
+#    Time: 160 ns  Iteration: 0  Instance: /tb
+# 1
+# Break at D:/course/103-1/Verilog HDL/week10/4.7/tb.v line 14
+# Compile of majority_circuit.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.tb
+# vsim work.tb 
+# Loading work.tb
+# Loading work.majority_circuit
+# ** Warning: (vsim-3009) [TSCALE] - Module 'majority_circuit' does not have a `timescale directive in effect, but previous modules do.
+#         Region: /tb/UUT
+run -all
+# 0ns in=00000001 flag=0
+# 10ns in=00000010 flag=0
+# 20ns in=00000011 flag=0
+# 30ns in=00000100 flag=0
+# 40ns in=00000101 flag=0
+# 50ns in=00000110 flag=0
+# 60ns in=00000111 flag=0
+# 70ns in=00001000 flag=0
+# 80ns in=00001001 flag=0
+# 90ns in=00001010 flag=0
+# 100ns in=00001011 flag=0
+# 110ns in=00001100 flag=0
+# 120ns in=00001101 flag=0
+# 130ns in=00001110 flag=0
+# 140ns in=00001111 flag=0
+# 150ns in=00010000 flag=0
+# 160ns in=00010001 flag=0
+# 170ns in=00010010 flag=0
+# 180ns in=00010011 flag=0
+# 190ns in=00010100 flag=0
+# 200ns in=00010101 flag=0
+# 210ns in=00010110 flag=0
+# 220ns in=00010111 flag=0
+# 230ns in=00011000 flag=0
+# 240ns in=00011001 flag=0
+# 250ns in=00011010 flag=0
+# 260ns in=00011011 flag=0
+# 270ns in=00011100 flag=0
+# 280ns in=00011101 flag=0
+# 290ns in=00011110 flag=0
+# 300ns in=00011111 flag=1
+# 310ns in=00100000 flag=0
+# 320ns in=00100001 flag=0
+# 330ns in=00100010 flag=0
+# 340ns in=00100011 flag=0
+# 350ns in=00100100 flag=0
+# 360ns in=00100101 flag=0
+# 370ns in=00100110 flag=0
+# 380ns in=00100111 flag=0
+# 390ns in=00101000 flag=0
+# 400ns in=00101001 flag=0
+# 410ns in=00101010 flag=0
+# 420ns in=00101011 flag=0
+# 430ns in=00101100 flag=0
+# 440ns in=00101101 flag=0
+# 450ns in=00101110 flag=0
+# 460ns in=00101111 flag=1
+# 470ns in=00110000 flag=0
+# 480ns in=00110001 flag=0
+# 490ns in=00110010 flag=0
+# 500ns in=00110011 flag=0
+# 510ns in=00110100 flag=0
+# 520ns in=00110101 flag=0
+# 530ns in=00110110 flag=0
+# 540ns in=00110111 flag=1
+# 550ns in=00111000 flag=0
+# 560ns in=00111001 flag=0
+# 570ns in=00111010 flag=0
+# 580ns in=00111011 flag=1
+# 590ns in=00111100 flag=0
+# 600ns in=00111101 flag=1
+# 610ns in=00111110 flag=1
+# 620ns in=00111111 flag=1
+# 630ns in=01000000 flag=0
+# 640ns in=01000001 flag=0
+# 650ns in=01000010 flag=0
+# 660ns in=01000011 flag=0
+# 670ns in=01000100 flag=0
+# 680ns in=01000101 flag=0
+# 690ns in=01000110 flag=0
+# 700ns in=01000111 flag=0
+# 710ns in=01001000 flag=0
+# 720ns in=01001001 flag=0
+# 730ns in=01001010 flag=0
+# 740ns in=01001011 flag=0
+# 750ns in=01001100 flag=0
+# 760ns in=01001101 flag=0
+# 770ns in=01001110 flag=0
+# 780ns in=01001111 flag=1
+# 790ns in=01010000 flag=0
+# 800ns in=01010001 flag=0
+# 810ns in=01010010 flag=0
+# 820ns in=01010011 flag=0
+# 830ns in=01010100 flag=0
+# 840ns in=01010101 flag=0
+# 850ns in=01010110 flag=0
+# 860ns in=01010111 flag=1
+# 870ns in=01011000 flag=0
+# 880ns in=01011001 flag=0
+# 890ns in=01011010 flag=0
+# 900ns in=01011011 flag=1
+# 910ns in=01011100 flag=0
+# 920ns in=01011101 flag=1
+# 930ns in=01011110 flag=1
+# 940ns in=01011111 flag=1
+# 950ns in=01100000 flag=0
+# 960ns in=01100001 flag=0
+# 970ns in=01100010 flag=0
+# 980ns in=01100011 flag=0
+# 990ns in=01100100 flag=0
+# 1000ns in=01100101 flag=0
+# 1010ns in=01100110 flag=0
+# 1020ns in=01100111 flag=1
+# 1030ns in=01101000 flag=0
+# 1040ns in=01101001 flag=0
+# 1050ns in=01101010 flag=0
+# 1060ns in=01101011 flag=1
+# 1070ns in=01101100 flag=0
+# 1080ns in=01101101 flag=1
+# 1090ns in=01101110 flag=1
+# 1100ns in=01101111 flag=1
+# 1110ns in=01110000 flag=0
+# 1120ns in=01110001 flag=0
+# 1130ns in=01110010 flag=0
+# 1140ns in=01110011 flag=1
+# 1150ns in=01110100 flag=0
+# 1160ns in=01110101 flag=1
+# 1170ns in=01110110 flag=1
+# 1180ns in=01110111 flag=1
+# 1190ns in=01111000 flag=0
+# 1200ns in=01111001 flag=1
+# 1210ns in=01111010 flag=1
+# 1220ns in=01111011 flag=1
+# 1230ns in=01111100 flag=1
+# 1240ns in=01111101 flag=1
+# 1250ns in=01111110 flag=1
+# 1260ns in=01111111 flag=1
+# 1270ns in=10000000 flag=0
+# 1280ns in=10000001 flag=0
+# 1290ns in=10000010 flag=0
+# 1300ns in=10000011 flag=0
+# 1310ns in=10000100 flag=0
+# 1320ns in=10000101 flag=0
+# 1330ns in=10000110 flag=0
+# 1340ns in=10000111 flag=0
+# 1350ns in=10001000 flag=0
+# 1360ns in=10001001 flag=0
+# 1370ns in=10001010 flag=0
+# 1380ns in=10001011 flag=0
+# 1390ns in=10001100 flag=0
+# 1400ns in=10001101 flag=0
+# 1410ns in=10001110 flag=0
+# 1420ns in=10001111 flag=1
+# 1430ns in=10010000 flag=0
+# 1440ns in=10010001 flag=0
+# 1450ns in=10010010 flag=0
+# 1460ns in=10010011 flag=0
+# 1470ns in=10010100 flag=0
+# 1480ns in=10010101 flag=0
+# 1490ns in=10010110 flag=0
+# 1500ns in=10010111 flag=1
+# 1510ns in=10011000 flag=0
+# 1520ns in=10011001 flag=0
+# 1530ns in=10011010 flag=0
+# 1540ns in=10011011 flag=1
+# 1550ns in=10011100 flag=0
+# 1560ns in=10011101 flag=1
+# 1570ns in=10011110 flag=1
+# 1580ns in=10011111 flag=1
+# 1590ns in=10100000 flag=0
+# 1600ns in=10100001 flag=0
+# 1610ns in=10100010 flag=0
+# 1620ns in=10100011 flag=0
+# 1630ns in=10100100 flag=0
+# 1640ns in=10100101 flag=0
+# 1650ns in=10100110 flag=0
+# 1660ns in=10100111 flag=1
+# 1670ns in=10101000 flag=0
+# 1680ns in=10101001 flag=0
+# 1690ns in=10101010 flag=0
+# 1700ns in=10101011 flag=1
+# 1710ns in=10101100 flag=0
+# 1720ns in=10101101 flag=1
+# 1730ns in=10101110 flag=1
+# 1740ns in=10101111 flag=1
+# 1750ns in=10110000 flag=0
+# 1760ns in=10110001 flag=0
+# 1770ns in=10110010 flag=0
+# 1780ns in=10110011 flag=1
+# 1790ns in=10110100 flag=0
+# 1800ns in=10110101 flag=1
+# 1810ns in=10110110 flag=1
+# 1820ns in=10110111 flag=1
+# 1830ns in=10111000 flag=0
+# 1840ns in=10111001 flag=1
+# 1850ns in=10111010 flag=1
+# 1860ns in=10111011 flag=1
+# 1870ns in=10111100 flag=1
+# 1880ns in=10111101 flag=1
+# 1890ns in=10111110 flag=1
+# 1900ns in=10111111 flag=1
+# 1910ns in=11000000 flag=0
+# 1920ns in=11000001 flag=0
+# 1930ns in=11000010 flag=0
+# 1940ns in=11000011 flag=0
+# 1950ns in=11000100 flag=0
+# 1960ns in=11000101 flag=0
+# 1970ns in=11000110 flag=0
+# 1980ns in=11000111 flag=1
+# 1990ns in=11001000 flag=0
+# 2000ns in=11001001 flag=0
+# 2010ns in=11001010 flag=0
+# 2020ns in=11001011 flag=1
+# 2030ns in=11001100 flag=0
+# 2040ns in=11001101 flag=1
+# 2050ns in=11001110 flag=1
+# 2060ns in=11001111 flag=1
+# 2070ns in=11010000 flag=0
+# 2080ns in=11010001 flag=0
+# 2090ns in=11010010 flag=0
+# 2100ns in=11010011 flag=1
+# 2110ns in=11010100 flag=0
+# 2120ns in=11010101 flag=1
+# 2130ns in=11010110 flag=1
+# 2140ns in=11010111 flag=1
+# 2150ns in=11011000 flag=0
+# 2160ns in=11011001 flag=1
+# 2170ns in=11011010 flag=1
+# 2180ns in=11011011 flag=1
+# 2190ns in=11011100 flag=1
+# 2200ns in=11011101 flag=1
+# 2210ns in=11011110 flag=1
+# 2220ns in=11011111 flag=1
+# 2230ns in=11100000 flag=0
+# 2240ns in=11100001 flag=0
+# 2250ns in=11100010 flag=0
+# 2260ns in=11100011 flag=1
+# 2270ns in=11100100 flag=0
+# 2280ns in=11100101 flag=1
+# 2290ns in=11100110 flag=1
+# 2300ns in=11100111 flag=1
+# 2310ns in=11101000 flag=0
+# 2320ns in=11101001 flag=1
+# 2330ns in=11101010 flag=1
+# 2340ns in=11101011 flag=1
+# 2350ns in=11101100 flag=1
+# 2360ns in=11101101 flag=1
+# 2370ns in=11101110 flag=1
+# 2380ns in=11101111 flag=1
+# 2390ns in=11110000 flag=0
+# 2400ns in=11110001 flag=1
+# 2410ns in=11110010 flag=1
+# 2420ns in=11110011 flag=1
+# 2430ns in=11110100 flag=1
+# 2440ns in=11110101 flag=1
+# 2450ns in=11110110 flag=1
+# 2460ns in=11110111 flag=1
+# 2470ns in=11111000 flag=1
+# 2480ns in=11111001 flag=1
+# 2490ns in=11111010 flag=1
+# 2500ns in=11111011 flag=1
+# 2510ns in=11111100 flag=1
+# 2520ns in=11111101 flag=1
+# 2530ns in=11111110 flag=1
+# 2540ns in=11111111 flag=1
+# 2550ns in=00000000 flag=0
+# 2560ns in=00000001 flag=0
+# 2570ns in=00000010 flag=0
+# 2580ns in=00000011 flag=0
+# 2590ns in=00000100 flag=0
+# 2600ns in=00000101 flag=0
+# 2610ns in=00000110 flag=0
+# 2620ns in=00000111 flag=0
+# 2630ns in=00001000 flag=0
+# 2640ns in=00001001 flag=0
+# 2650ns in=00001010 flag=0
+# 2660ns in=00001011 flag=0
+# 2670ns in=00001100 flag=0
+# 2680ns in=00001101 flag=0
+# 2690ns in=00001110 flag=0
+# 2700ns in=00001111 flag=0
+# 2710ns in=00010000 flag=0
+# 2720ns in=00010001 flag=0
+# 2730ns in=00010010 flag=0
+# 2740ns in=00010011 flag=0
+# 2750ns in=00010100 flag=0
+# 2760ns in=00010101 flag=0
+# 2770ns in=00010110 flag=0
+# 2780ns in=00010111 flag=0
+# 2790ns in=00011000 flag=0
+# 2800ns in=00011001 flag=0
+# 2810ns in=00011010 flag=0
+# 2820ns in=00011011 flag=0
+# 2830ns in=00011100 flag=0
+# 2840ns in=00011101 flag=0
+# 2850ns in=00011110 flag=0
+# 2860ns in=00011111 flag=1
+# 2870ns in=00100000 flag=0
+# 2880ns in=00100001 flag=0
+# 2890ns in=00100010 flag=0
+# 2900ns in=00100011 flag=0
+# 2910ns in=00100100 flag=0
+# 2920ns in=00100101 flag=0
+# 2930ns in=00100110 flag=0
+# 2940ns in=00100111 flag=0
+# 2950ns in=00101000 flag=0
+# 2960ns in=00101001 flag=0
+# 2970ns in=00101010 flag=0
+# 2980ns in=00101011 flag=0
+# 2990ns in=00101100 flag=0
+# 3000ns in=00101101 flag=0
+# 3010ns in=00101110 flag=0
+# 3020ns in=00101111 flag=1
+# 3030ns in=00110000 flag=0
+# 3040ns in=00110001 flag=0
+# 3050ns in=00110010 flag=0
+# 3060ns in=00110011 flag=0
+# 3070ns in=00110100 flag=0
+# 3080ns in=00110101 flag=0
+# 3090ns in=00110110 flag=0
+# 3100ns in=00110111 flag=1
+# 3110ns in=00111000 flag=0
+# 3120ns in=00111001 flag=0
+# 3130ns in=00111010 flag=0
+# 3140ns in=00111011 flag=1
+# 3150ns in=00111100 flag=0
+# 3160ns in=00111101 flag=1
+# 3170ns in=00111110 flag=1
+# 3180ns in=00111111 flag=1
+# 3190ns in=01000000 flag=0
+# 3200ns in=01000001 flag=0
+# 3210ns in=01000010 flag=0
+# 3220ns in=01000011 flag=0
+# 3230ns in=01000100 flag=0
+# 3240ns in=01000101 flag=0
+# 3250ns in=01000110 flag=0
+# 3260ns in=01000111 flag=0
+# 3270ns in=01001000 flag=0
+# 3280ns in=01001001 flag=0
+# 3290ns in=01001010 flag=0
+# 3300ns in=01001011 flag=0
+# 3310ns in=01001100 flag=0
+# 3320ns in=01001101 flag=0
+# 3330ns in=01001110 flag=0
+# 3340ns in=01001111 flag=1
+# 3350ns in=01010000 flag=0
+# 3360ns in=01010001 flag=0
+# 3370ns in=01010010 flag=0
+# 3380ns in=01010011 flag=0
+# 3390ns in=01010100 flag=0
+# 3400ns in=01010101 flag=0
+# 3410ns in=01010110 flag=0
+# 3420ns in=01010111 flag=1
+# 3430ns in=01011000 flag=0
+# 3440ns in=01011001 flag=0
+# 3450ns in=01011010 flag=0
+# 3460ns in=01011011 flag=1
+# 3470ns in=01011100 flag=0
+# 3480ns in=01011101 flag=1
+# 3490ns in=01011110 flag=1
+# 3500ns in=01011111 flag=1
+# 3510ns in=01100000 flag=0
+# 3520ns in=01100001 flag=0
+# 3530ns in=01100010 flag=0
+# 3540ns in=01100011 flag=0
+# 3550ns in=01100100 flag=0
+# 3560ns in=01100101 flag=0
+# 3570ns in=01100110 flag=0
+# 3580ns in=01100111 flag=1
+# 3590ns in=01101000 flag=0
+# 3600ns in=01101001 flag=0
+# 3610ns in=01101010 flag=0
+# 3620ns in=01101011 flag=1
+# 3630ns in=01101100 flag=0
+# 3640ns in=01101101 flag=1
+# 3650ns in=01101110 flag=1
+# 3660ns in=01101111 flag=1
+# 3670ns in=01110000 flag=0
+# 3680ns in=01110001 flag=0
+# 3690ns in=01110010 flag=0
+# 3700ns in=01110011 flag=1
+# 3710ns in=01110100 flag=0
+# 3720ns in=01110101 flag=1
+# 3730ns in=01110110 flag=1
+# 3740ns in=01110111 flag=1
+# 3750ns in=01111000 flag=0
+# 3760ns in=01111001 flag=1
+# 3770ns in=01111010 flag=1
+# 3780ns in=01111011 flag=1
+# 3790ns in=01111100 flag=1
+# 3800ns in=01111101 flag=1
+# 3810ns in=01111110 flag=1
+# 3820ns in=01111111 flag=1
+# 3830ns in=10000000 flag=0
+# 3840ns in=10000001 flag=0
+# 3850ns in=10000010 flag=0
+# 3860ns in=10000011 flag=0
+# 3870ns in=10000100 flag=0
+# 3880ns in=10000101 flag=0
+# 3890ns in=10000110 flag=0
+# 3900ns in=10000111 flag=0
+# 3910ns in=10001000 flag=0
+# 3920ns in=10001001 flag=0
+# 3930ns in=10001010 flag=0
+# 3940ns in=10001011 flag=0
+# 3950ns in=10001100 flag=0
+# 3960ns in=10001101 flag=0
+# 3970ns in=10001110 flag=0
+# 3980ns in=10001111 flag=1
+# 3990ns in=10010000 flag=0
+# 4000ns in=10010001 flag=0
+# 4010ns in=10010010 flag=0
+# 4020ns in=10010011 flag=0
+# 4030ns in=10010100 flag=0
+# 4040ns in=10010101 flag=0
+# 4050ns in=10010110 flag=0
+# 4060ns in=10010111 flag=1
+# 4070ns in=10011000 flag=0
+# 4080ns in=10011001 flag=0
+# 4090ns in=10011010 flag=0
+# 4100ns in=10011011 flag=1
+# 4110ns in=10011100 flag=0
+# 4120ns in=10011101 flag=1
+# 4130ns in=10011110 flag=1
+# 4140ns in=10011111 flag=1
+# 4150ns in=10100000 flag=0
+# 4160ns in=10100001 flag=0
+# 4170ns in=10100010 flag=0
+# 4180ns in=10100011 flag=0
+# 4190ns in=10100100 flag=0
+# 4200ns in=10100101 flag=0
+# 4210ns in=10100110 flag=0
+# 4220ns in=10100111 flag=1
+# 4230ns in=10101000 flag=0
+# 4240ns in=10101001 flag=0
+# 4250ns in=10101010 flag=0
+# 4260ns in=10101011 flag=1
+# 4270ns in=10101100 flag=0
+# 4280ns in=10101101 flag=1
+# 4290ns in=10101110 flag=1
+# 4300ns in=10101111 flag=1
+# 4310ns in=10110000 flag=0
+# 4320ns in=10110001 flag=0
+# 4330ns in=10110010 flag=0
+# 4340ns in=10110011 flag=1
+# 4350ns in=10110100 flag=0
+# 4360ns in=10110101 flag=1
+# 4370ns in=10110110 flag=1
+# 4380ns in=10110111 flag=1
+# 4390ns in=10111000 flag=0
+# 4400ns in=10111001 flag=1
+# 4410ns in=10111010 flag=1
+# 4420ns in=10111011 flag=1
+# 4430ns in=10111100 flag=1
+# 4440ns in=10111101 flag=1
+# 4450ns in=10111110 flag=1
+# 4460ns in=10111111 flag=1
+# 4470ns in=11000000 flag=0
+# 4480ns in=11000001 flag=0
+# 4490ns in=11000010 flag=0
+# 4500ns in=11000011 flag=0
+# 4510ns in=11000100 flag=0
+# 4520ns in=11000101 flag=0
+# 4530ns in=11000110 flag=0
+# 4540ns in=11000111 flag=1
+# 4550ns in=11001000 flag=0
+# 4560ns in=11001001 flag=0
+# 4570ns in=11001010 flag=0
+# 4580ns in=11001011 flag=1
+# 4590ns in=11001100 flag=0
+# 4600ns in=11001101 flag=1
+# 4610ns in=11001110 flag=1
+# 4620ns in=11001111 flag=1
+# 4630ns in=11010000 flag=0
+# 4640ns in=11010001 flag=0
+# 4650ns in=11010010 flag=0
+# 4660ns in=11010011 flag=1
+# 4670ns in=11010100 flag=0
+# 4680ns in=11010101 flag=1
+# 4690ns in=11010110 flag=1
+# 4700ns in=11010111 flag=1
+# 4710ns in=11011000 flag=0
+# 4720ns in=11011001 flag=1
+# 4730ns in=11011010 flag=1
+# 4740ns in=11011011 flag=1
+# 4750ns in=11011100 flag=1
+# 4760ns in=11011101 flag=1
+# 4770ns in=11011110 flag=1
+# 4780ns in=11011111 flag=1
+# 4790ns in=11100000 flag=0
+# 4800ns in=11100001 flag=0
+# 4810ns in=11100010 flag=0
+# 4820ns in=11100011 flag=1
+# 4830ns in=11100100 flag=0
+# 4840ns in=11100101 flag=1
+# 4850ns in=11100110 flag=1
+# 4860ns in=11100111 flag=1
+# 4870ns in=11101000 flag=0
+# 4880ns in=11101001 flag=1
+# 4890ns in=11101010 flag=1
+# 4900ns in=11101011 flag=1
+# 4910ns in=11101100 flag=1
+# 4920ns in=11101101 flag=1
+# 4930ns in=11101110 flag=1
+# 4940ns in=11101111 flag=1
+# 4950ns in=11110000 flag=0
+# 4960ns in=11110001 flag=1
+# 4970ns in=11110010 flag=1
+# 4980ns in=11110011 flag=1
+# 4990ns in=11110100 flag=1
+# 5000ns in=11110101 flag=1
+# 5010ns in=11110110 flag=1
+# 5020ns in=11110111 flag=1
+# 5030ns in=11111000 flag=1
+# 5040ns in=11111001 flag=1
+# 5050ns in=11111010 flag=1
+# 5060ns in=11111011 flag=1
+# 5070ns in=11111100 flag=1
+# 5080ns in=11111101 flag=1
+# 5090ns in=11111110 flag=1
+# 5100ns in=11111111 flag=1
+# 5110ns in=00000000 flag=0
+# ** Note: $finish    : D:/course/103-1/Verilog HDL/week10/4.7/tb.v(14)
+#    Time: 5120 ns  Iteration: 0  Instance: /tb
+# Break at D:/course/103-1/Verilog HDL/week10/4.7/tb.v line 14

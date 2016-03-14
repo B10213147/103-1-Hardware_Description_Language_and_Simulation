@@ -1,0 +1,15 @@
+{D:/course/103-1/Verilog HDL/week13/MUX/tb.v} {1 {vlog -work work {D:/course/103-1/Verilog HDL/week13/MUX/tb.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {D:/course/103-1/Verilog HDL/week13/MUX/MUX.v} {1 {vlog -work work {D:/course/103-1/Verilog HDL/week13/MUX/MUX.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}}

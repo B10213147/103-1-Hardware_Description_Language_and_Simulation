@@ -1,0 +1,84 @@
+m255
+13
+cModel Technology
+dD:\course\103-1\Verilog HDL\week13\binary_counter
+vbinary_counter
+ITS>eRGVHlz9?IZ8iCDhja0
+VJWoNMlTjlm;H^bkD]a?C:1
+dD:\course\103-1\Verilog HDL\week13\seven_segment_LED_display
+w1418290641
+FD:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/binary_counter.v
+L0 2
+VJWoNMlTjlm;H^bkD]a?C:1
+OE;L;6.1;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+vbinary_decoder
+IRQ04BzdYS`?oJWf2U`FC73
+V`eVTaF@6gFWB<cggLAAGI2
+dD:\course\103-1\Verilog HDL\week13\seven_segment_LED_display
+w1418293754
+FD:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/binary_decoder.v
+L0 2
+V`eVTaF@6gFWB<cggLAAGI2
+OE;L;6.1;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+vMUX
+Ih^^NBDE_Bd0:M<VOnTX4M1
+VfGGkaHfD=zU?;_?zdAS7E1
+dD:\course\103-1\Verilog HDL\week13\seven_segment_LED_display
+w1418293838
+FD:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/MUX.v
+L0 3
+VfGGkaHfD=zU?;_?zdAS7E1
+OE;L;6.1;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+n@m@u@x
+vseven_segment_decoder
+I34H:QUU3OW9YJ5TcU_oTo0
+V_;FfbmD]NmX0C2JIMW0jH3
+dD:\course\103-1\Verilog HDL\week13\seven_segment_LED_display
+w1417789013
+FD:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/seven_segment_decoder.v
+L0 1
+V_;FfbmD]NmX0C2JIMW0jH3
+OE;L;6.1;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+vseven_segment_LED_display
+IzSRAWz?A6=2mR`C`i53R83
+VMJFoja19DY<7?dP>[;RRm2
+dD:\course\103-1\Verilog HDL\week13\seven_segment_LED_display
+w1418291640
+FD:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/seven_segment_LED_display.v
+L0 2
+VMJFoja19DY<7?dP>[;RRm2
+OE;L;6.1;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+nseven_segment_@l@e@d_display
+vtb
+IN@fBife1@zhRjRgSfX_FZ3
+VWBTEb<n5KKlk1A:e]e^IY1
+dD:\course\103-1\Verilog HDL\week13\seven_segment_LED_display
+w1418292491
+FD:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/tb.v
+L0 2
+VWBTEb<n5KKlk1A:e]e^IY1
+OE;L;6.1;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000

@@ -1,0 +1,43 @@
+{D:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/tb.v} {1 {vlog -work work {D:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/tb.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {D:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/MUX.v} {1 {vlog -work work {D:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/MUX.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} {D:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/binary_decoder.v} {1 {vlog -work work {D:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/binary_decoder.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+-- Compiling module binary_decoder
+
+Top level modules:
+	binary_decoder
+
+} {} {}} {D:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/binary_counter.v} {1 {vlog -work work {D:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/binary_counter.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+-- Compiling module binary_counter
+
+Top level modules:
+	binary_counter
+
+} {} {}} {D:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/seven_segment_decoder.v} {1 {vlog -work work {D:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/seven_segment_decoder.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+-- Compiling module seven_segment_decoder
+
+Top level modules:
+	seven_segment_decoder
+
+} {} {}} {D:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/seven_segment_LED_display.v} {1 {vlog -work work {D:/course/103-1/Verilog HDL/week13/seven_segment_LED_display/seven_segment_LED_display.v}
+Model Technology ModelSim SE vlog 6.1 Compiler 2005.06 Jun  6 2005
+-- Compiling module seven_segment_LED_display
+
+Top level modules:
+	seven_segment_LED_display
+
+} {} {}}
