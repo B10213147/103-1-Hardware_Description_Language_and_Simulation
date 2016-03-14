@@ -1,0 +1,12 @@
+module logically_shift(data,shift,out);
+input [3:0] data;
+input [1:0] shift;
+output [3:0] out;
+initial 
+	while(shift<0)begin
+		data<=data>>1;
+		shift<=shift-1;
+		end
+assign out=data;		
+endmodule
+	
