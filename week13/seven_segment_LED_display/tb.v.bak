@@ -1,0 +1,22 @@
+`timescale 1ns/100ps
+module tb;
+parameter N=4;
+reg [4*N-1:0]din=0;
+reg clk=0,reset_n;
+wire [6:0]data_out;
+wire [N-1:0]select;
+	seven_segment_LED_display UUT(
+		.clk(clk),.reset_n(reset_n),.data_out(data_out),
+		.select(select),.din(din));
+always	#0.5 clk <=~clk;
+initial begin
+    reset_n=0;
+    forever begin
+    #1.2 reset_n=1;
+    #10.3 reset_n=0;end    
+end
+always #1 din<=din+1;
+initial #(1000) $finish;
+//always @(posedge clk)begin
+		
+endmodule
